@@ -4,6 +4,6 @@ This is the repository for the data and source code for the study.  Running the 
 
 For those unfamiliar with GitHub, we suggest downloading the zip file, which will download all of the files.  
 
-We thank Mike Bostock, the author of D3.js (d3js.org) without which the interactive data visualisation would not have been possible, and the authors of R (https://cran.r-project.org/) and the authors of lme4 (Bates, Mächler, Bolker and Walker)  
+We thank Mike Bostock, the author of D3.js (https://d3js.org) without which the interactive data visualisation would not have been possible, and the authors of R (https://cran.r-project.org/) and the authors of lme4 (Bates, Mächler, Bolker and Walker)  
 
 For comments or questions please contact andrew.prayle(at)nottingham.ac.uk
